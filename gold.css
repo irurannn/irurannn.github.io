@@ -1,0 +1,107 @@
+p{
+
+     color: black;
+     width: 800px;
+     font-size: 11.5px;
+     line-height:1.5;
+     letter-spacing: 1px;
+     margin: 0 auto;
+     
+     
+     
+     padding: 20px 20px 20px 20px;
+     background-color: cyan;
+
+}
+
+h3{
+    background-color: cyan;
+    line-height:1.5;
+    letter-spacing: 1px;
+    width: 800px;
+    padding: 20px 20px 20px 20px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 11px;
+    color: black;
+    
+}
+
+li{
+    line-height:-1;
+    letter-spacing: 1px;
+    width: 700px;
+    padding: 0 0 20px 20px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 10px;
+    background: linear-gradient(
+        to bottom,
+        cyan,
+        rgb(207, 83, 83) 100%,
+     cyan 100%,
+     rgb(207, 83, 83)
+      );
+      /* The rectangle in which to repeat. 
+         It can be fully wide in this case */
+      background-size: 100% 20px;
+
+}
+
+.myimg:hover{
+    border: 1px solid black;
+    
+    
+        
+}
+.vows{
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: cyan
+}
+
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+a:hover{
+
+    color:gold;
+   
+}
+
+a{
+    color: black;
+    
+}
+
+h1{
+    
+    
+    text-shadow: 3px 1px 1px black;
+    text-align: center;
+}
+h1:hover{
+    text-align: center;
+    background-color:cyan;
+    border: 3px dotted silver;
+    
+}
+
+html{
+    
+    font-family: "Merriweather", serif;
+    background-color:silver;
+    border: 1px dotted black;
+
+
+}
+
+body{
+    border: 4px dotted black; 
+}
